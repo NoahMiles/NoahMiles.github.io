@@ -2,8 +2,7 @@ h1 {
   font-size: 2em;
   color: gold;
 }
- <nav>
-    <ul>
+
       <a href = "index.html">
         Main Page
       </a>
@@ -14,5 +13,4 @@ h1 {
       <a href = "bio.html">
         My life of Football
       </a>
-</ul>
-</nav>
+
