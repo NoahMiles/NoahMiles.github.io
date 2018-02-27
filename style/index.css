@@ -8,7 +8,19 @@ img.resize {
     height: 100px;
 }
 div a:after {
-  content: "";
+  content: "Main Page";
+  display: block;
+  height: 0;
+  width: 1px;
+}
+div a:after {
+  content: "History and Rules of Football!";
+  display: block;
+  height: 0;
+  width: 1px;
+}
+div a:after {
+  content: "My life of Football";
   display: block;
   height: 0;
   width: 1px;
