@@ -7,21 +7,4 @@ img.resize {
   width: 100px;
     height: 100px;
 }
-div a:after {
-  content: "Main Page";
-  display: block;
-  height: 0;
-  width: 1px;
-}
-div a:after {
-  content: "History and Rules of Football!";
-  display: block;
-  height: 0;
-  width: 1px;
-}
-div a:after {
-  content: "My life of Football";
-  display: block;
-  height: 0;
-  width: 1px;
-}
+
