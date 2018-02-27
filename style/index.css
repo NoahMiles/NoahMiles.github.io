@@ -1,3 +1,7 @@
+body {
+  backround: black;
+}
+  
 h1 {
   font-size: 7em;
   color: purple;
@@ -11,8 +15,5 @@ ul{
   font-size: 1em;
   color: Gold;
 }
-body {
-  backround: black;
-}
-  
+
 
