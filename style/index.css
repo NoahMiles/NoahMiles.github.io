@@ -3,15 +3,7 @@ h1 {
   color: gold;
 }
 
-<ul>     
-<a href = "index.html">
-        Main Page
-      </a>
- 
-      <a href = "article.html">
-        History and rules of Football!
-      </a>
-      <a href = "bio.html">
-        My life of Football
-      </a>
-
+img.resize {
+  width: 200px;
+    height: 200px;
+}
