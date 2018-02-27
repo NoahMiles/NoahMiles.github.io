@@ -7,3 +7,9 @@ img.resize {
   width: 100px;
     height: 100px;
 }
+div a:after {
+  content: "";
+  display: block;
+  height: 0;
+  width: 1px;
+}
